@@ -115,10 +115,11 @@ As of the first public release, there are 4 pre-trained options to play with:
 | small  |   244 M    |     `small.en`     |      `small`       |     ~2 GB     |      ~6x       |
 | medium |   769 M    |    `medium.en`     |      `medium`      |     ~5 GB     |      ~2x       |
 | large  |   1550 M   |        N/A         |      `large`       |    ~10 GB     |       1x       |
+| turbo  |   809 M    |        N/A         |      `turbo`       |    ~6 GB      |       8x       |
 
 ---
 
-```Model = 'large'```
+```Model = 'turbo'```
 
 ---
 **Run this cell again if you change the model.**
